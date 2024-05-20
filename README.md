@@ -1,4 +1,5 @@
 # Project 2: Multi-Agent Search - Pacman Maze
+Done as part of INFO-550- Artificial Intelligence course the the University of Arizona
 
 ![image](https://github.com/shakir-flash/Pacman-AI-Multi-Agent-Search/assets/59859522/40f900e1-eb5d-4e15-af90-10639f397fd1)
 
